@@ -1,0 +1,37 @@
+		
+
+		.fst{
+			width: 50%;
+			height: 350px;
+			background-color: #94EEEC;
+			margin-right: 20px;
+			float: left;
+			margin-top: 20px;
+			border-radius: 25px;
+
+		}
+		.scnd{
+			width: 48%;
+			height: 350px;
+			background-color: #C694EE;
+			float: left;
+			margin-top: 20px;
+			border-radius: 25px;
+		}
+		.last1{
+			width: 33%;
+			height: 100px;
+			background-color: #EEEE94;
+			border-radius: 25px;
+			margin-right: 5px;
+			float: left;
+			margin-top: 25px;
+		}
+		.last3{
+			width: 33%;
+			height: 100px;
+			background-color: #EEEE94;
+			border-radius: 25px;
+			float: left;
+			margin-top: 20px;
+		}
